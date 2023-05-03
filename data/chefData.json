@@ -4,7 +4,7 @@
     "name": "John Smith",
     "picture": "https://i.ibb.co/xHW9SnH/confident-young-male-cook-wearing-chef-uniform-crossing-hands-isolated-white-wall-with-copy-space.jpg",
     "experience": "10 years",
-    "no_of_recipes": 50,
+    "no_of_recipes": 40,
     "likes": 1000,
     "short_bio": "Chef John Smith has been cooking professionally for 10 years and has a repertoire of over 50 delicious recipes. His fans love his unique flavor combinations and beautiful presentation. Follow him for more culinary inspiration!",
     "recipes": [
@@ -216,7 +216,7 @@
       },
       {
         "name": "Classic Margherita Pizza",
-        "rating": "5",
+        "rating": "4",
         "image": "https://i.ibb.co/zNfqc1B/pizza-with-mushrooms-olives-basil-leaves.jpg",
         "ingredients": [
           { "name": "Pizza dough", "quantity": "1 lb" },
@@ -250,7 +250,7 @@
     "recipes": [
       {
         "name": "Classic Cheeseburger",
-        "rating": "4",
+        "rating": "5",
         "image": "https://i.ibb.co/jGxQDHj/front-view-yummy-meat-cheeseburger-with-french-fries-dark-background-dinner-burgers-snack-fast-food.jpg",
         "ingredients": [
           { "name": "Ground beef", "quantity": "1 lb" },
@@ -351,7 +351,7 @@
       },
       {
         "name": "Mac and Cheese",
-        "rating": "4.5",
+        "rating": "5",
         "image": "https://i.ibb.co/3RxPcGd/top-view-raclette-dish-with-ingredients-delicious-food-1.jpg",
         "ingredients": [
           { "name": "Elbow macaroni", "quantity": "2 lb" },
