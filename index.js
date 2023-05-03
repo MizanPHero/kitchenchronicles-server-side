@@ -12,6 +12,9 @@ app.get('/', (req, res) => {
     res.send('API Server is running')
 });
 
+app.get('/', (req, res) => {
+    res.send(chefData)
+})
 
 
 
