@@ -31,7 +31,7 @@
       },
       {
         "name": "Mac and Cheese",
-        "rating": "4.5",
+        "rating": "5",
         "image": "https://i.ibb.co/3RxPcGd/top-view-raclette-dish-with-ingredients-delicious-food-1.jpg",
         "ingredients": [
           { "name": "Elbow macaroni", "quantity": "1 lb" },
@@ -111,7 +111,7 @@
       },
       {
         "name": "Mac and Cheese",
-        "rating": "4.5",
+        "rating": "4",
         "image": "https://i.ibb.co/3RxPcGd/top-view-raclette-dish-with-ingredients-delicious-food-1.jpg",
         "ingredients": [
           { "name": "Elbow macaroni", "quantity": "1 lb" },
@@ -191,7 +191,7 @@
       },
       {
         "name": "Mac and Cheese",
-        "rating": "4.5",
+        "rating": "4",
         "image": "https://i.ibb.co/3RxPcGd/top-view-raclette-dish-with-ingredients-delicious-food-1.jpg",
         "ingredients": [
           { "name": "Elbow macaroni", "quantity": "1 lb" },
